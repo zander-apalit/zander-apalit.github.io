@@ -9,12 +9,14 @@ _Winnipeg, Manitoba &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; 204-891-1743 &nbsp;&
 ### Work Experience
 ---
 **Sobey's Extra** - _Dec 2018 - Present_
+
 Front End Supervisor
 - Oversaw front end operations
 - Handled cash as part of nightly closing routine
 - Provided customer service
 
 **Domino's Pizza** - _Jun 2017 - Sep 2018_
+
 Crew Member
 - Received orders over the phone and in person
 - Helped with making pizza, packaging and delivering orders
