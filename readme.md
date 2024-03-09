@@ -29,13 +29,14 @@ Before you configure your website, you'll have to adjust some settings.
 3. Click on the ``Pages`` section, found on the left under ``Code and automation``.
 4. In the ``Branch`` section, adjust the dropdown box to **master**.
 5. Click on the save button beside the dropdown box.
-Your website is now ready for configuration~
+Your website is now ready for configuration!
 
 ##### 3. Configure your website
 In this step, you'll adjust the appearance of your website to your liking.
 1. Navigate to your website repository.
 2. Click on the ``_config.yml`` file. This file is where you'll adjust various sections of your website.
 3. Configure this file to your liking. Fields such as the website title, description, and social media links can be edited. Additional instructions are located within the file.
+4. When you're satisfied with the configuration, click on the ``Commit changes`` button in the top right.
 
 ##### 4. Upload your resume to your website
 Finally, it's time to upload your resume to your website.
@@ -43,9 +44,23 @@ Finally, it's time to upload your resume to your website.
 2. Navigate to your website repository
 3. Click on the **``index.html``** file. This file constructs the landing page for your website.
 4. Delete the all the contents of this file that are below this block:
+```
+---
+layout: default
+---
+```
+5. Copy and paste the contents of your resume Markdown file in place of the section you have just deleted.
+6. Click on the ``Commit changes`` button in the top right.
+Your resume should now be hosted on your website.
+
+##### 5. Visit your website
+Now that you've finished constructing your website, it's time to visit it.
+1. In your web browser, navigate to the search bar.
+2. Type in **your-github-name-here**.github.io and search.
+3. You should now be visiting the website that you've hosted on Github pages. It is important to note that changes made to your website will take a few minutes to appear on the website.
+
+Here is an example of my website that I've hosted on my Github account **zander-apalit**. You can see how I navigate to the website, and how it appears.
     
-
-
 ### MORE RESOURCES
 Some helpful resources related to resume hosting on Jekyll:
 - Andrew Etter's [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS), which discusses the modern approaches to technical writing, and the value of hosting a static website.
