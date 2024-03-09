@@ -7,7 +7,7 @@ permalink: /readme/
 # HOW TO HOST A RESUME USING JEKYLL
 ---
 ### PURPOSE
-The purpose of this readme page is to demonstrate hosting a resume using Github Pages. This process will make us of Jekyll to host the website, but it won't require any knowledge of Jekyll to complete. All of the editing can be done either through your Markdown editor or through Github Pages.
+The purpose of this readme page is to demonstrate hosting a resume using Github Pages. This process will make us of Jekyll to host the website, but it won't require any knowledge of Jekyll to complete. All of the editing can be done either through your Markdown editor or through Github Pages. This document additionally serves to demonstrate values present in Etter's _Modern Technical Writing_, namely the value of using a light markdown language, and the advantages of hosting a static website.
 
 ### PREREQUISITES
 This process will require two things:
@@ -15,6 +15,36 @@ This process will require two things:
 2. A Github account. [Create an account here if you don't have one.](https://github.com/)
 
 ### INSTRUCTIONS
+##### 1. Fork the Jekyll Now repository to your own Github repository
+When you fork a repository in Github, you create a copy of it in your own repository. You can then make edits without affecting the original page. You will be forking the Jekyll Now page, which is a Jekyll website template hosted on Github pages. By copying this repository, you can take advantage of the Jekyll template without having to learn Jekyll.
+1. Navigate to the [Jekyll Now](https://github.com/barryclark/jekyll-now) repository.
+2. Click on the **``Fork``** button in the top right corner.
+3. Rename the repository to "**your-github-name-here**.github.io". It is important that you type your Github account name exactly.
+You should now have a Jekyll template hosted on your own Github page. For the next step, navigate to your profile and click on the repository that you have just created.
+
+##### 2. Adjust your repository settings
+Before you configure your website, you'll have to adjust some settings.
+1. Navigate to your website repository.
+2. Click on the ``Settings`` button in the top middle of the page.
+3. Click on the ``Pages`` section, found on the left under ``Code and automation``.
+4. In the ``Branch`` section, adjust the dropdown box to **master**.
+5. Click on the save button beside the dropdown box.
+Your website is now ready for configuration~
+
+##### 3. Configure your website
+In this step, you'll adjust the appearance of your website to your liking.
+1. Navigate to your website repository.
+2. Click on the ``_config.yml`` file. This file is where you'll adjust various sections of your website.
+3. Configure this file to your liking. Fields such as the website title, description, and social media links can be edited. Additional instructions are located within the file.
+
+##### 4. Upload your resume to your website
+Finally, it's time to upload your resume to your website.
+1. Prepare your resume Markdown file so that it's ready for copying.
+2. Navigate to your website repository
+3. Click on the **``index.html``** file. This file constructs the landing page for your website.
+4. Delete the all the contents of this file that are below this block:
+    
+
 
 ### MORE RESOURCES
 Some helpful resources related to resume hosting on Jekyll:
