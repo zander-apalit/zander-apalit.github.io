@@ -5,6 +5,7 @@ layout: default
 # ZANDER APALIT
 ***
 _Winnipeg, Manitoba &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; 204-891-1743 &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; zander.apalit@gmail.com_
+
 ### Work Experience
 ---
 **Sobey's Extra** - _Dec 2018 - Present_
@@ -18,6 +19,7 @@ Crew Member
 - Received orders over the phone and in person
 - Helped with making pizza, packaging and delivering orders
 - Assisted with cleaning and store upkeep
+
 ### Technical Skills
 ---
 **Programming Languages**
@@ -25,6 +27,7 @@ Crew Member
 - Java
 - C
 - SQL
+
 ### Education
 ---
 **University of Manitoba** - _Sep 2016 - Present_
