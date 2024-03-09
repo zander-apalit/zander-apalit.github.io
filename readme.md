@@ -45,10 +45,12 @@ Finally, it's time to upload your resume to your website.
 2. Navigate to your website repository
 3. Click on the **``index.html``** file. This file constructs the landing page for your website.
 4. Delete the all the contents of this file that are below this block:
-
-> ---
-> layout: default
-> ---
+   
+```
+---
+layout: default
+---
+```
 
 5. Copy and paste the contents of your resume Markdown file in place of the section you have just deleted.
 6. Click on the ``Commit changes`` button in the top right.
