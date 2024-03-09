@@ -3,7 +3,6 @@ layout: page
 title: Read Me
 permalink: /readme/
 ---
-
 # HOW TO HOST A RESUME USING JEKYLL
 ---
 ### PURPOSE
@@ -37,6 +36,7 @@ In this step, you'll adjust the appearance of your website to your liking.
 2. Click on the ``_config.yml`` file. This file is where you'll adjust various sections of your website.
 3. Configure this file to your liking. Fields such as the website title, description, and social media links can be edited. Additional instructions are located within the file.
 4. When you're satisfied with the configuration, click on the ``Commit changes`` button in the top right.
+5. Click on the ``Commit changes`` button in the bottom right of the dialogue box that appears.
 
 ##### 4. Upload your resume to your website
 Finally, it's time to upload your resume to your website.
@@ -51,6 +51,7 @@ layout: default
 ```
 5. Copy and paste the contents of your resume Markdown file in place of the section you have just deleted.
 6. Click on the ``Commit changes`` button in the top right.
+7. Click on the ``Commit changes`` button in the bottom right of the dialogue box that appears.
 Your resume should now be hosted on your website.
 
 ##### 5. Visit your website
