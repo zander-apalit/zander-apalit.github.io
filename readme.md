@@ -66,7 +66,7 @@ Now that you've finished constructing your website, it's time to visit it.
 
 Here is an example of my website that I've hosted on my Github account **zander-apalit**. You can see how I navigate to the website, and how it appears.
 
-![Demonstration of navigating to a Jekyll website](https://github.com/zander-apalit/zander-apalit.github.io/blob/master/demo.gif)
+![Demonstration of navigating to a Jekyll website](https://raw.githubusercontent.com/zander-apalit/zander-apalit.github.io/master/demo.gif))
     
 ### MORE RESOURCES
 Some helpful resources related to resume hosting on Jekyll:
