@@ -4,12 +4,21 @@ title: Read Me
 permalink: /readme/
 ---
 
-Some information about you!
+# HOW TO HOST A RESUME USING JEKYLL
+### PURPOSE
+The purpose of this readme page is to demonstrate hosting a resume using Github Pages.
+### PREREQUISITES
+This process will require two things:
+1. A resume written in Markdown. A guide to Markdown can be found in [More Resources](/)
+2. A Github account. [Create an account here if you don't have one.](https://github.com/)
 
-### More Information
+### INSTRUCTIONS
 
-A place to include any other types of information that you'd like to include about yourself.
+### MORE RESOURCES
 
-### Contact me
+### AUTHORS AND ACKNOWLEDGEMENTS
 
-[email@domain.com](mailto:email@domain.com)
+### FAQ
+
+WHY IS MARKDOWN BETTER THAN A WORD PROCESSOR
+WHY IS MY RESUME NOT SHOWING UP
