@@ -17,8 +17,15 @@ This process will require two things:
 ### INSTRUCTIONS
 
 ### MORE RESOURCES
+Some helpful resources related to resume hosting on Jekyll:
+- Andrew Etter's [_Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS), which discusses the modern approaches to technical writing, and the value of hosting a static website.
+- [Markdown Tutorial](https://www.markdowntutorial.com/), which walks you through rudimentary features of Markdown.
+- [Dillinger](https://dillinger.io/), an online Markdown editor.
+- [Introduction to Jekyll](https://ubc-library-rc.github.io/intro-jekyll/jekyll/), which describes the process of hosting a website on Github pages using Jekyll.
 
 ### AUTHORS AND ACKNOWLEDGEMENTS
+Thank you to Barry Clark for his [Jekyll Now](https://github.com/barryclark/jekyll-now) repository used in this tutorial.
+Thank you to my group mates Seyi Asoga and Anmolpreet Singh for their feedback and assistance.
 
 ### FAQ
 
