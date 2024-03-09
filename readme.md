@@ -6,11 +6,11 @@ permalink: /readme/
 # HOW TO HOST A RESUME USING JEKYLL
 ---
 ### PURPOSE
-The purpose of this readme page is to demonstrate hosting a resume using Github Pages. This process will make us of Jekyll to host the website, but it won't require any knowledge of Jekyll to complete. All of the editing can be done either through your Markdown editor or through Github Pages. This document additionally serves to demonstrate values present in Etter's _Modern Technical Writing_, namely the value of using a light markdown language, and the advantages of hosting a static website.
+The purpose of this readme page is to demonstrate hosting a resume using Github Pages. This process will make use of Jekyll to host the website, but it won't require any knowledge of Jekyll to complete. All of the editing can be done either through your Markdown editor or through Github Pages. This document additionally serves to demonstrate values present in Etter's _Modern Technical Writing_, namely the value of using a light markdown language, and the advantages of hosting a static website.
 
 ### PREREQUISITES
 This process will require two things:
-1. A resume formatted in Markdown. A guide to Markdown can be found in [More Resources](#-More-Resources)
+1. A resume formatted in Markdown. A guide to Markdown can be found in the **More Resources** section.
 2. A Github account. [Create an account here if you don't have one.](https://github.com/)
 
 ### INSTRUCTIONS
@@ -28,6 +28,7 @@ Before you configure your website, you'll have to adjust some settings.
 3. Click on the ``Pages`` section, found on the left under ``Code and automation``.
 4. In the ``Branch`` section, adjust the dropdown box to **master**.
 5. Click on the save button beside the dropdown box.
+
 Your website is now ready for configuration!
 
 ##### 3. Configure your website
@@ -44,14 +45,15 @@ Finally, it's time to upload your resume to your website.
 2. Navigate to your website repository
 3. Click on the **``index.html``** file. This file constructs the landing page for your website.
 4. Delete the all the contents of this file that are below this block:
-```
----
-layout: default
----
-```
+
+> ---
+> layout: default
+> ---
+
 5. Copy and paste the contents of your resume Markdown file in place of the section you have just deleted.
 6. Click on the ``Commit changes`` button in the top right.
 7. Click on the ``Commit changes`` button in the bottom right of the dialogue box that appears.
+
 Your resume should now be hosted on your website.
 
 ##### 5. Visit your website
@@ -71,6 +73,7 @@ Some helpful resources related to resume hosting on Jekyll:
 
 ### AUTHORS AND ACKNOWLEDGEMENTS
 Thank you to Barry Clark for his [Jekyll Now](https://github.com/barryclark/jekyll-now) repository used in this tutorial.
+
 Thank you to my group mates Seyi Asoga and Anmolpreet Singh for their feedback and assistance.
 
 ### FAQ
